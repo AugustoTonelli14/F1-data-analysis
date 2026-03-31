@@ -198,6 +198,19 @@ f1_pipeline/
 
 ---
 
+## 👤 Author
+
+**Augusto Tonelli**  
+Data Analyst / Data Engineer focused on data pipelines, analytics, and machine learning applications.
+
+---
+
+## 📌 Final Note
+
+This project was designed to replicate a real-world data workflow, combining engineering practices with analytical reasoning and business-driven insights.
+
+--- 
+
 ## License
 
 MIT License. Data sourced from the [Ergast Motor Racing Developer API](http://ergast.com/mrd/).
